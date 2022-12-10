@@ -5,7 +5,7 @@ import content from './content.json'
 import Navbar from './components/navbar'
 import Header from './components/Header'
 import Products from './components/Card'
-
+import Footer from './components/footer'
 
 function App() {
   
@@ -49,6 +49,7 @@ return (
                 </div> 
             </div>
     </section> 
+    <Footer/>
    
     </>
     );
