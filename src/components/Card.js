@@ -61,10 +61,11 @@ return(
         </div>
         
         <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
-            <div class="text-center"><Button onClick={()=>addcart()} disabled={isactive===true?true:false}>{button}</Button>
+
+            {button=="Add to cart"?<Button onClick={()=>addcart()} disabled={isactive===true?true:false}>{button}</Button>:<Button>{button}</Button>}
             {button==="Add to cart"? <Button  onClick={removecart} disabled={isactive===true? false:true} >{button2}</Button>:""}
             </div>
-        </div>
+        
     </div>
 </div>
 )
