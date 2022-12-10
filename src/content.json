@@ -1,0 +1,94 @@
+[
+    {
+      "createdAt": "2022-12-06T20:03:49.346Z",
+      "name": "Fancy Product",
+      "badge":false,
+      "avatar": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "pricing": "$40.00 - $80.00",
+      "id": "1",
+      "button": "View options",
+      "button2": "Remove",
+
+
+      "star":false
+    },
+    {
+      "createdAt": "2022-12-07T06:36:38.531Z",
+      "name": "Special Item",
+      "badge":true,
+      "avatar": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "pricing": "$18.00",
+      "id": "2",
+      "button": "Add to cart",
+      "button2": "Remove",
+      "star":true
+    },
+    {
+      "createdAt": "2022-12-07T02:44:18.082Z",
+      "name": "Sale Iteam",
+      "badge":false,
+      "avatar": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "pricing": "$25.00",
+      "id": "3",
+      "button": "Add to cart",
+      "button2": "Remove",
+      "star":true
+    },
+    {
+      "createdAt": "2022-12-07T00:29:22.237Z",
+      "name": "Popular Iteam",
+      "badge":false,
+      "avatar": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "pricing": "$40.00",
+      "id": "4",
+      "button": "Add to cart",
+      "button2": "Remove",
+      "star":true
+    },
+    {
+      "createdAt": "2022-12-07T16:49:23.227Z",
+      "name": "Sale Iteam",
+      "badge":true,
+      "avatar": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "pricing": "$25.00",
+      "id": "5",
+      "button": "Add to cart",
+      "button2": "Remove",
+      "star":false
+    },
+    {
+      "createdAt": "2022-12-07T12:12:31.269Z",
+      "name": "Fancy Product",
+      "badge":false,
+      "avatar": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "pricing": "$120.00 - $280",
+      "id": "6",
+      "button": "View options",
+      "button2": "Remove",
+      "star":false
+    },
+    {
+      "createdAt": "2022-12-06T20:25:12.368Z",
+      "name": "Special Item",
+      "avatar": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "pricing": "$18.00",
+      "id": "7",
+      "button": "Add to cart",
+      "button2": "Remove",
+      "star":false,
+
+      "badge":true
+    },
+    {
+      "createdAt": "2022-12-06T21:41:02.368Z",
+      "name": "Popular Iteam",
+      "avatar": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "pricing": "$40.00",
+      "id": "8",
+      "button": "Add to cart",
+      "button2": "Remove",
+      "star":true,
+      "badge":false
+    }
+  ]
+  
